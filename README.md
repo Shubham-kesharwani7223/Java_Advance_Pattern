@@ -55,6 +55,7 @@ These pattern problems are useful for **coding practice, programming fundamental
 
 ## 📂 Project Structure
 Advanced-Pattern-Java
+
 │
 
 ├── Heart.java
