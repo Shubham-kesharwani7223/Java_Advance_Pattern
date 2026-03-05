@@ -31,20 +31,6 @@ The following advanced patterns are implemented in this repository:
 - **Basic Programming Logic**
 
 ---
-Advanced-Pattern-Java
-│
-├── Heart.java
-├── Pascals_triangle.java
-├── butterfly.java
-├── diamond.java
-├── hollow_K_pattern.java
-├── hollow_Rhombus.java
-├── hollow_butterfly.java
-├── number_pyramid.java
-└── solid_Rhombus.java
-
-
----
 
 ## 💡 Example Pattern
 
@@ -68,3 +54,23 @@ These pattern problems are useful for **coding practice, programming fundamental
 ---
 
 ## 📂 Project Structure
+Advanced-Pattern-Java
+│
+
+├── Heart.java
+
+├── Pascals_triangle.java
+
+├── butterfly.java
+
+├── diamond.java
+
+├── hollow_K_pattern.java
+
+├── hollow_Rhombus.java
+
+├── hollow_butterfly.java
+
+├── number_pyramid.java
+
+└── solid_Rhombus.java
